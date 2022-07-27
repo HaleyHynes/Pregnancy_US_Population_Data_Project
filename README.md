@@ -1,5 +1,7 @@
 # Pregnancy US Population Data Project
 
+This project uses Python version 3.10.5
+
 In this project I analyze pregnancy data from 2017 in the United States to determine how many women were pregnant in each state and region and how that compares to the population data for women in each state and region.
 
 
