@@ -4,7 +4,10 @@ By Haley Hynes
 
 This project uses Python version 3.10.5
 
-In this project I analyze pregnancy data from 2017 in the United States to determine how many women were pregnant in each state and region and how that compares to the population data for women in each state and region.
+My data comes from the [Guttmacher Institute](https://data.guttmacher.org/states).
+I used official [US Census Regions](https://www.census.gov/programs-surveys/economic-census/guidance-geographies/levels.html) for the regions in my data.
+
+In this project I analyze pregnancy data from 2017 in the United States to determine how many women were pregnant and gave birth in each state and region and how that compares to the population data for women in each state and region. I then find the percentage of women who were pregnant and the percentage that gave birth in each state and region.
 
 
 ## Requirement #1: Reading Data In
